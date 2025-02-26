@@ -2,6 +2,10 @@
 
 🚀 **DevOps Engineer | AWS | CI/CD | Cloud Infrastructure | Automation**
 
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazon-aws)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-blue?style=flat-square&logo=githubactions)  
+![Cloud](https://img.shields.io/badge/Cloud-Infrastructure-green?style=flat-square&logo=cloud)
+
 ![Alan's GitHub Banner](https://source.unsplash.com/1600x400/?technology,cloud)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alanraju/)
