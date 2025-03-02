@@ -1,0 +1,77 @@
+<svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Define a circular clip path -->
+    <clipPath id="circleClip">
+      <circle cx="20" cy="20" r="20" />
+    </clipPath>
+  </defs>
+
+  <!-- Background Image (Banner) -->
+  <image x="0" y="0" width="1584" height="396"
+    href="https://raw.githubusercontent.com/alanraju22/alanraju22/main/git-profile/ProfileBanner.png" />
+
+  <!-- Social Media Icons (Rounded) -->
+  <a href="mailto:alanrajuk@gmail.com">
+    <g transform="translate(1400,340)">
+      <image width="40" height="40"
+        href="https://raw.githubusercontent.com/alanraju22/alanraju22/main/git-profile/icons-gmail.gif"
+        clip-path="url(#circleClip)" />
+    </g>
+  </a>
+
+  <a href="https://github.com/alanraju22" target="_blank">
+    <g transform="translate(1450,340)">
+      <image width="40" height="40"
+        href="https://raw.githubusercontent.com/alanraju22/alanraju22/main/git-profile/icons-github.gif"
+        clip-path="url(#circleClip)" />
+    </g>
+  </a>
+
+  <a href="https://linkedin.com/in/alanraju" target="_blank">
+    <g transform="translate(1500,340)">
+      <image width="40" height="40"
+        href="https://raw.githubusercontent.com/alanraju22/alanraju22/main/git-profile/icons-linkedin.gif"
+        clip-path="url(#circleClip)" />
+    </g>
+  </a>
+</svg>
+
+
+
+
+<!--
+<svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Image (Banner) -->
+  <image x="0" y="0" width="1584" height="396" href="ProfileBanner.png" />
+
+  <!-- Social Media Icons (Right Bottom) -->
+  <a href="mailto:alanrajuk@gmail.com">
+    <image x="1400" y="340" width="40" height="40" href="icons-gmail.gif" />
+  </a>
+  <a href="https://github.com/alanraju22" target="_blank">
+    <image x="1450" y="340" width="40" height="40" href="icons-github.gif" />
+  </a>
+  <a href="https://linkedin.com/in/alanraju" target="_blank">
+    <image x="1500" y="340" width="40" height="40" href="icons-linkedin.gif" />
+  </a>
+</svg>
+-->
+
+
+<!--
+<svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Image (Banner) -->
+  <image x="0" y="0" width="1584" height="396" href="ProfileBanner.png" />
+
+  <!-- Social Media Icons (Right Bottom) -->
+  <a href="mailto:alanrajuk@gmail.com">
+    <image x="1100" y="340" width="40" height="40" href="gmail-icon.png" />
+  </a>
+  <a href="https://github.com/alanraju22" target="_blank">
+    <image x="1150" y="340" width="40" height="40" href="github-icon.png" />
+  </a>
+  <a href="https://linkedin.com/in/alanraju" target="_blank">
+    <image x="1200" y="340" width="40" height="40" href="linkedin-icon.png" />
+  </a>
+</svg>
+-->
