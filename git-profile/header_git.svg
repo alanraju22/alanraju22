@@ -1,15 +1,15 @@
 <svg width="1584" height="396" xmlns="http://www.w3.org/2000/svg">
   <!-- Background Image (Banner) -->
-  <image x="0" y="0" width="1584" height="396" href="https://raw.githubusercontent.com/alanraju22/alanraju22/main/git-profile/ProfileBanner.png" />
+  <image x="0" y="0" width="1584" height="396" href="https://raw.githubusercontent.com/alanraju22/alanraju22/refs/heads/main/git-profile/ProfileBanner.png" />
 
   <!-- Social Media Icons (Right Bottom) -->
   <a href="mailto:alanrajuk@gmail.com">
-    <image x="1400" y="340" width="40" height="40" href="https://raw.githubusercontent.com/alanraju22/alanraju22/main/git-profile/icons-gmail.gif" />
+    <image x="1400" y="340" width="40" height="40" href="https://raw.githubusercontent.com/alanraju22/alanraju22/refs/heads/main/git-profile/icons-gmail.gif" />
   </a>
   <a href="https://github.com/alanraju22" target="_blank">
-    <image x="1450" y="340" width="40" height="40" href="https://raw.githubusercontent.com/alanraju22/alanraju22/main/git-profile/icons-github.gif" />
+    <image x="1450" y="340" width="40" height="40" href="https://raw.githubusercontent.com/alanraju22/alanraju22/refs/heads/main/git-profile/icons-github.gif" />
   </a>
   <a href="https://linkedin.com/in/alanraju" target="_blank">
-    <image x="1500" y="340" width="40" height="40" href="https://raw.githubusercontent.com/alanraju22/alanraju22/main/git-profile/icons-linkedin.gif" />
+    <image x="1500" y="340" width="40" height="40" href="https://raw.githubusercontent.com/alanraju22/alanraju22/refs/heads/main/git-profile/icons-linkedin.gif" />
   </a>
 </svg>
