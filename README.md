@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/alanraju22/alanraju22/main/git-profile/header-git.svg" alt="GitHub Header" width="100%">
+
 ### Hi there, I'm Alan Raju! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px">
 
 **Cloud DevOps Engineer | ☁️ AWS | 🐳 Docker | ☸️ Kubernetes | ⚙️ CI/CD | Driving Continuous Integration, Automation, and Scalable Infrastructure for Agile Software Delivery🚀**
