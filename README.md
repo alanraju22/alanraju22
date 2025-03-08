@@ -1,4 +1,4 @@
-<iframe src="https://alanraju22.github.io/alanraju22/git-profile/header-git.svg" width="100%" height="400" style="border:none;"></iframe>
+[![Header](https://raw.githubusercontent.com/alanraju22/alanraju22/main/git-profile/header-git.svg)](https://alanraju22.github.io/alanraju22/git-profile/header-git.svg)
 
 <!--<img src="https://raw.githubusercontent.com/alanraju22/alanraju22/main/git-profile/header-git.svg" alt="GitHub Header" width="100%">-->
 
